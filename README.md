@@ -1,4 +1,5 @@
 # Gym-Membership-System 
+
 -- Create the Users table
 CREATE TABLE Users (
     user_id INTEGER PRIMARY KEY AUTOINCREMENT,
